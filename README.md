@@ -24,7 +24,7 @@ Key to listed variables: id = unique identifier of individuals, obs = a unique i
 * [Statistical analysis and graphs](https://github.com/morceglo/Food-calling-Thyroptera/blob/94727306c0c6c691e51f49bd8e24f113c8895c85/Analysis%20exp2.R)
 
 ## Status
-Project is: Manuscript submitted to the journal Animal Behaviour
+Project is: Manuscript under consideration in Animal Behaviour
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
