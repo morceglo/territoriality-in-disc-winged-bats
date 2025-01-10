@@ -27,7 +27,9 @@ Key to listed variables: ID = group identification number, Gcrowding2 = average 
 
 ## Analyses
 
-* [Statistical analysis and graphs](https://github.com/morceglo/Food-calling-Thyroptera/blob/94727306c0c6c691e51f49bd8e24f113c8895c85/Analysis%20exp2.R)
+* [Spatial analyses](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/Statistical%20analysis.R)
+  
+* [Statistical analysis](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/Statistical%20analysis.R)
 
 ## Status
 Project is: Manuscript under consideration in Animal Behaviour
