@@ -19,8 +19,11 @@ Key to listed variables: Group_ID = group identification number, HR = size of ro
 * [Spatial distribution of tubular leaves](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/leaves.csv)
 Key to listed variables: Fecha = date when a leaf was observed (day/month/year), Muestreo = sample identification, Hoja = leaf number, x = longitude, y = latitude.
 
-* [Tubular leaves in roosting home range](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/leaves.csv)
-Key to listed variables: Fecha = date when a leaf was observed (day/month/year), Muestreo = sample identification, Hoja = leaf number, x = longitude, y = latitude. 
+* [Tubular leaves in roosting home range](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/leaves_inHR.csv)
+Key to listed variables: ID_group = group identification number, N_leaves = number of tubular leaves observed, Muestreo = sample identification, HR = roosting home range, den_leavesHR = number of available tubular leaves in roosting home range, Gcrow_size = number of bats in the roost.
+
+* [Tubular leaves in roosting home range](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/leaves_inHR.csv)
+Key to listed variables: ID = group identification number, Gcrowding2 = average group size, DenH_prom = average density of tubular leaves in each group's territory, Area = size of territory (ha), Overlapping = average overlap of roosting home range (in %), Nleaves = number of leaves.
 
 ## Analyses
 
