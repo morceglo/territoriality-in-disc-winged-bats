@@ -27,7 +27,7 @@ Key to listed variables: ID = group identification number, Gcrowding2 = average 
 
 ## Analyses
 
-* [Spatial analyses](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/Statistical%20analysis.R)
+* [Spatial analyses](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/Roosting_range.R)
   
 * [Statistical analysis](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/Statistical%20analysis.R)
 
