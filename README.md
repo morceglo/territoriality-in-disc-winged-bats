@@ -32,7 +32,7 @@ Key to listed variables: ID = group identification number, Gcrowding2 = average 
 * [Statistical analysis](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/Statistical%20analysis.R)
 
 ## Status
-Project is: Manuscript under consideration in Animal Behaviour
+Project is: Accepted in Animal Behaviour
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
